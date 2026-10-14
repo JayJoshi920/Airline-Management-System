@@ -1,0 +1,17 @@
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.metadata/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Keep Eclipse project configuration if required
+# Do not ignore .project or .classpath automatically
