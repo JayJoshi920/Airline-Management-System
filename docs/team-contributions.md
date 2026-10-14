@@ -10,7 +10,7 @@
 - **Database:** MySQL
 - **Team Size:** 3 Members
 
-## 1. Jay Joshi — 90%
+## 1. Jay Joshi 
 
 Key responsibilities include:
 - Leading the overall project development and planning.
