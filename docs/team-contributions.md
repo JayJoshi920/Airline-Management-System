@@ -35,6 +35,4 @@ Naman Sharma contributes to the project through supporting activities, including
 - Helping identify issues and potential improvements.
 
 
-## Note
 
-The contribution percentages represent the team's stated estimate of each member's contribution. They should reflect the actual work performed by each member.
