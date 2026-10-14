@@ -1,10 +1,21 @@
-## Week 5 (3–9 August 2026)
+# Week 5 Progress Report
 
-### Work Completed
-The team worked on the flight management module requirements, including storing flight details and planning how users could search for available flights.
+**Project:** Airline Management System  
+**Duration:** 3 August – 9 August 2026  
+**Team Members:** Jay Joshi, Kartik Khandelwal, Naman Sharma
 
-### Problems Faced
-Deciding how flight information should be stored, displayed, and searched.
+## Work Completed
+- Reviewed the requirements for flight and airport management.
+- Identified the information required to maintain flight and airport records.
+- Planned how flight information would be entered and retrieved through the application.
+- Reviewed the relationship between flights and airport information.
 
-### Plan for Next Week
-Work on passenger records and the passenger management module.
+## Problems Faced
+- Deciding which fields were needed for flight and airport records.
+- Planning how flight information should be displayed and retrieved.
+- Ensuring that flight data could be associated with the correct airport records.
+
+## Plan for Next Week
+- Work on passenger information management.
+- Identify the passenger details required for registration and bookings.
+- Plan how passenger records will be stored in MySQL.
