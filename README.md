@@ -59,9 +59,9 @@ The project includes a Java test class for database operations. Individual modul
 
 ## Team Members
 
-- Member 1: [Enter your name]
-- Member 2: [Enter teammate's name]
-- Member 3: [Enter third member's name]
+- Member 1: Jay Joshi
+- Member 2: Kartik Khandelwal
+- Member 3: Naman Sharma
 
 ## Project Development
 
