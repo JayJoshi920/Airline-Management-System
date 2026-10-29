@@ -1,78 +1,70 @@
-# Airline Management System
+# ✈️ Airline Management System
 
-## Project Overview
+A Java-based desktop application designed to manage airline operations, flight information, passenger details, and ticket bookings.
 
-The Airline Management System is a Java-based desktop application developed to manage basic airline operations through a graphical user interface. It uses Java Swing for the user interface and MySQL for database connectivity.
+## 📌 Project Overview
 
-The system provides functionality for managing flight and passenger information, booking flights, viewing booking records, recording payments, and cancelling bookings.
+The Airline Management System is a college Project-Based Learning (PBL) project developed to demonstrate Java application development and database connectivity. It aims to organize common airline tasks through an interface for users and administrators.
 
-## Objectives
+## ✨ Features
 
-- Manage flight and airport information.
-- Store and maintain passenger details.
-- Book flights and generate booking reference numbers (PNRs).
-- Retrieve and display booking records.
-- Record payment information.
-- Support booking cancellation and status updates.
-- Provide a separate login interface for administrators and passengers.
+- **Login System:** Entry points for the available user portals.
+- **Flight Management:** View or manage flight information, according to implemented permissions.
+- **Passenger Management:** Maintain passenger details.
+- **Flight Search:** Find flights using available search options.
+- **Ticket Booking:** Record flight bookings and associated passenger information.
+- **Booking Records:** View existing booking details.
+- **Cancellation:** Manage ticket cancellations if supported by the current implementation.
 
-## Implemented Modules
+*Only features actually implemented and working should be listed as completed.*
 
-1. **Login System:** Provides an administrator login and a passenger PNR-based entry point.
-2. **Flight and Airport Management:** Allows flight details and airport information to be managed.
-3. **Passenger Management:** Records passenger information, including name, email, phone number, passport number, and address.
-4. **Flight Booking:** Records bookings by associating passengers with available flights.
-5. **Booking Records:** Retrieves and displays booking information.
-6. **Payment Management:** Records payment details and payment methods.
-7. **Booking Cancellation:** Records cancellation information and updates booking status.
-8. **Passenger Ticket Portal:** Retrieves ticket information using a PNR.
-9. **Database Connectivity:** Connects the Java application to a MySQL database through JDBC.
+## 🛠️ Technologies Used
 
-## Technology Stack
+- Java
+- Java Swing (if used for the interface)
+- MySQL
+- JDBC
+- Eclipse IDE
+- MySQL Workbench
 
-- **Programming Language:** Java
-- **GUI Framework:** Java Swing
-- **Database:** MySQL
-- **Database Connectivity:** JDBC (MySQL Connector/J)
-- **Development Environment:** Eclipse IDE
-- **User Interface Styling:** Java AWT and Swing
+## 💻 Development Environment
 
-## Database
+- IDE: Eclipse
+- Database: MySQL
+- Connectivity: JDBC
 
-The application is configured to connect to a MySQL database named `airline_db2`.
+## 🚀 How to Run
 
-The Java source code references database tables for customers, airports, flights, bookings, payments, and cancellations.
+1. Install a compatible Java JDK.
+2. Install and start MySQL if the project uses a MySQL database.
+3. Open Eclipse IDE.
+4. Import the existing project into the workspace.
+5. Add the required MySQL Connector/J library if JDBC is used.
+6. Configure the database connection using your local settings.
+7. Create or import the database and tables required by the project.
+8. Run the application's actual main class.
 
-The database schema and required table structures must be configured in MySQL for the application to run correctly.
+*The exact database name, main class, and setup commands must match the source code in this repository.*
 
-## Project Structure
+## 📂 Project Structure
 
-- `src/airline/` — Java source files
-- `bin/airline/` — Compiled Java class files
-- `.project` — Eclipse project configuration
-- `.classpath` — Eclipse classpath configuration
-- `.settings/` — Eclipse project settings
+The repository contains the Java application source code and project resources. The structure may include user interface classes, booking and flight management classes, database connectivity code, and supporting resources.
 
-## Testing and Validation
+## 👥 Team Members
 
-The project includes a Java test class for database operations. Individual modules should be tested for successful database connectivity, valid input handling, booking creation, payment recording, ticket retrieval, and cancellation.
+- **Member 1:** Jay Joshi
+- **Member 2:** [Enter your teammate's name]
 
-## Team Members
+## 🎓 Academic Information
 
-- Member 1: Jay Joshi
-- Member 2: Kartik Khandelwal
-- Member 3: Naman Sharma
+- Course: B.Tech Artificial Intelligence and Data Science
+- Semester: 5th Semester
+- Project Type: Project-Based Learning (PBL)
 
-## Project Development
+## 📸 Screenshots
 
-The project has been developed incrementally, with separate Java classes for the user interface and individual airline management operations. Further testing and validation are required to confirm that all modules function correctly in the configured environment.
+Application screenshots will be added here as the project documentation is completed.
 
-## Current Status
+## 📈 Project Status
 
-Development in progress.
-
-## Academic Information
-
-- **Course:** B.Tech Artificial Intelligence and Data Science
-- **Semester:** 5th Semester
-- **Project Type:** Project-Based Learning (PBL)
+Academic project — development and testing in progress.
