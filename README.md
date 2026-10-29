@@ -64,7 +64,9 @@ The repository contains the Java application source code and project resources. 
 
 ## 📸 Screenshots
 
-Application screenshots will be added here as the project documentation is completed.
+<img width="1102" height="636" alt="image" src="https://github.com/user-attachments/assets/7c996a14-4060-4faa-b530-c0291d5bbaa2" />
+
+
 
 ## 📈 Project Status
 
