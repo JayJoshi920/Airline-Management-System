@@ -74,4 +74,4 @@ The repository contains the Java application source code and project resources. 
 
 ## 📈 Project Status
 
-Academic project — development and testing in progress.
+Academic project — development and testing is completed
