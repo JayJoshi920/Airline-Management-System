@@ -65,6 +65,10 @@ The repository contains the Java application source code and project resources. 
 ## 📸 Screenshots
 
 <img width="1102" height="636" alt="image" src="https://github.com/user-attachments/assets/7c996a14-4060-4faa-b530-c0291d5bbaa2" />
+<img width="877" height="462" alt="image" src="https://github.com/user-attachments/assets/f2a6d4d3-b45e-4422-b917-7f749e1166ff" />
+<img width="600" height="547" alt="image" src="https://github.com/user-attachments/assets/9ae21672-83e0-4196-9e1d-294a285e66db" />
+<img width="872" height="432" alt="image" src="https://github.com/user-attachments/assets/4b6f8055-9642-4732-8f46-d8da0a1fd019" />
+<img width="870" height="412" alt="image" src="https://github.com/user-attachments/assets/33ec52f2-53e5-4efd-909d-71f416e64180" />
 
 
 
