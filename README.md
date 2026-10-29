@@ -53,7 +53,8 @@ The repository contains the Java application source code and project resources. 
 ## 👥 Team Members
 
 - **Member 1:** Jay Joshi
-- **Member 2:** [Enter your teammate's name]
+- **Member 2:** Kartik Khandelwal
+- **Member 3:** Naman Sharma
 
 ## 🎓 Academic Information
 
