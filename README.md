@@ -21,7 +21,7 @@ The Airline Management System is a college Project-Based Learning (PBL) project 
 ## 🛠️ Technologies Used
 
 - Java
-- Java Swing (if used for the interface)
+- Java Swing 
 - MySQL
 - JDBC
 - Eclipse IDE
