@@ -16,7 +16,6 @@ The Airline Management System is a college Project-Based Learning (PBL) project 
 - **Booking Records:** View existing booking details.
 - **Cancellation:** Manage ticket cancellations if supported by the current implementation.
 
-*Only features actually implemented and working should be listed as completed.*
 
 ## 🛠️ Technologies Used
 
@@ -44,7 +43,6 @@ The Airline Management System is a college Project-Based Learning (PBL) project 
 7. Create or import the database and tables required by the project.
 8. Run the application's actual main class.
 
-*The exact database name, main class, and setup commands must match the source code in this repository.*
 
 ## 📂 Project Structure
 
